@@ -1,0 +1,5 @@
+URL_SERVICE = "https://d447fe64-d64b-4154-8b26-c0362f3c0073.serverhub.praktikum-services.ru"
+DOC_PATH = "/docs/"
+LOG_MAIN_PATH = "/api/logs/main/"
+CREATE_USER_PATH = "/api/v1/users/"
+CREATE_USER_KITS = "/api/v1/kits"
